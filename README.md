@@ -22,3 +22,17 @@ My birth place is **INDIA**. I love my country because of its varied cultures an
    
    [about myself](Aboutme.md)
 
+***
+# FOOD/DRINK
+Must try food /drinks:
+   
+| Food  | Place | price
+|---|---|---|
+| Chicken Biryani | Paradise Hyderabad  | 3.9$
+| Arabian Mandi |  36@ Arabian kitchen | 4.8$
+|Badam milk | Dilsukhnagar |  2$
+| Triple choco chip thickshake | Thickshake factory | 6$
+
+
+
+
