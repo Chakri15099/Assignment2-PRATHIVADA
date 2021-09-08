@@ -14,3 +14,8 @@ My birth place is **INDIA**. I love my country because of its varied cultures an
 3.  Get down in the Airport in Hyderabad
    1. Collect the baggage in the counter.
    2. Leave the airport and go to your favourite place.
+   * Food
+   * Cricket kit 
+   * Camera
+   * Drone
+   * Frisbee
