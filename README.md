@@ -33,6 +33,17 @@ Must try food /drinks:
 |Badam milk | Dilsukhnagar |  2$
 | Triple choco chip thickshake | Thickshake factory | 6$
 
+***
+# Quotes I like
+
+> All is well. *-Rancho*
+
+> Life is a journey not a destination. *-Ralph Waldo Emerson*
+
+> Die with memories not with dreams. *-Alex benny*
+
+
+
 
 
 
